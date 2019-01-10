@@ -27,4 +27,4 @@ These files are intended to help members access remote desktop/s to enable remot
 Permissions 0777 for 'robotics.pem' are too open.
 ```
 
-Try changing permissions of robotics.pem by `chmod 0600 robotics.pem`
+Try changing permissions of `robotics.pem` by `chmod 600 robotics.pem`
